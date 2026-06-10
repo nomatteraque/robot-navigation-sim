@@ -1,0 +1,17 @@
+# Build Artifacts
+*.exe
+*.o
+*.obj
+*.out
+robot
+
+# IDE and Editor files
+.vscode/
+.vs/
+*.suo
+*.user
+*.userossc
+*.sln
+*.vcxproj
+*.filters
+.DS_Store
